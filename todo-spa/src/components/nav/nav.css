@@ -1,0 +1,27 @@
+.nav {
+    display: flex;
+    flex-flow: row nowrap;
+    height: 100%;
+}
+
+.nav a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #636363;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    box-sizing: border-box;
+    border: 1px solid cornflowerblue;
+    background: rgba(92, 176, 232, 0.32);
+}
+
+.nav a:hover {
+    box-shadow: 0 0 5px 0 cornflowerblue;
+}
+
+.nav a:active {
+    transform: scale(0.95);
+}

@@ -1,0 +1,20 @@
+.item-add-form {
+    margin: 40px 20px;
+}
+.item-add-form button {
+    width: 100%;
+}
+
+.item-add-form .btn {
+    background: rgba(92, 176, 232, 0.12);
+}
+
+.item-add-form .btn:hover {
+    color: #636363;
+    border: 1px solid cornflowerblue;
+    box-shadow: 0 0 5px 0 cornflowerblue;
+}
+
+.form-control {
+    background: rgba(92, 176, 232, 0.05);
+}

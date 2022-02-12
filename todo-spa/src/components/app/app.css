@@ -1,0 +1,12 @@
+.app {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 20px 20px;
+    box-shadow: 0 0 8px 0 rgba(34, 60, 80, 0.2);
+}
+
+.header {
+    height: 50px;
+    box-shadow: 0 3px 5px -5px rgba(34, 60, 80, 0.6);
+}
+
